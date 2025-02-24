@@ -1,5 +1,5 @@
 Hey Everyone 👋
-Hi. I'm Anton, a senior software engineer (+10 years) who likes to work with JavaScript(Typescript)/CSS/HTML/Solidity/Rust/Python/C++.
+Hi. I'm Kelvin, a senior fullstack developer (+8 years) who likes to work with React/AI/.
 
 Blockchain developer (Smart Contract/Dapp/DeFi/NFT/DAO, Bitcoin/Ethereum/BNB chain/Arbitrum/Base/Polygon/Avalanche/Harmony/Fantom/Polkadot/Kusama, Solidity/Truffle/Ganache/Waffle/Hardhat/Foundry/OpenZeppelin, web3.js/ethers.js/viem/web3-react/wagmi/polkadot-sdk/uniswap-sdk/Typechain/TheGraph/IPFS/scaffold-eth)
 Web full-stack (both front-end & back-end) developer (TypeScript/JavaScript, React.js/Next.js/Preact/Gatsby, React Native, Vue.js/Nuxt.js, Eleventy, Node.js, PWA, GraphQL, TDD)
