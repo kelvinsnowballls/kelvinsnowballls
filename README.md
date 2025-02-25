@@ -1,7 +1,6 @@
 Hey Everyone 👋
 Hi. I'm Kelvin, a senior fullstack developer (+8 years) who likes to work with React/AI/.
 
-Blockchain developer (Smart Contract/Dapp/DeFi/NFT/DAO, Bitcoin/Ethereum/BNB chain/Arbitrum/Base/Polygon/Avalanche/Harmony/Fantom/Polkadot/Kusama, Solidity/Truffle/Ganache/Waffle/Hardhat/Foundry/OpenZeppelin, web3.js/ethers.js/viem/web3-react/wagmi/polkadot-sdk/uniswap-sdk/Typechain/TheGraph/IPFS/scaffold-eth)
 Web full-stack (both front-end & back-end) developer (TypeScript/JavaScript, React.js/Next.js/Preact/Gatsby, React Native, Vue.js/Nuxt.js, Eleventy, Node.js, PWA, GraphQL, TDD)
 Web performance & UI/UX expert (web.dev, Core Web Vitals, Lighthouse, WebPageTest, PageSpeedInsights, Speed Curve)
 In the past years, I've been working with a Google team and Nuxt team on web front-end development, web performance optimization, best practices in modern web development (React.js & Vue.js), and UX improvements.
